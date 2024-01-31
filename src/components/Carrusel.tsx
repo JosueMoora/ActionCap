@@ -5,7 +5,7 @@ import { CardFood } from './CardFood';
 import { useState } from 'react';
 
 interface CarruselProps {
-    data: [],
+    data: {id: number, imagen: string}[],
     title: string
 }
 

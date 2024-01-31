@@ -7,7 +7,7 @@ export const Navbar = () => {
       <Box
         sx={{
           background:
-            "linear-gradient(rgba(60, 60, 60, 0.5), rgba(60, 60, 60, 0.5)), url(./src/assets/bg.png) no-repeat center/cover",
+            "linear-gradient(rgba(60, 60, 60, 0.5), rgba(60, 60, 60, 0.5)), url(https://s3-alpha-sig.figma.com/img/c9f5/f3a9/787c7960105a0ce6ef69acaa0c3e5c5e?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CZodTUQVwJXZh4SrQM1Mit~Peyi7UvoA2K4hidlJIWMBBWHS5eurJxFO1RJvQquI1vB0~toqR0c4o6qpclBWF8Vpv-WeJUFHrA-GKhzdYIgxmtT~XyVnKBEAwBEblLozQYHRoaq0uYjZHee7bfPcwWYm7SnkrYTyd8d0pCtCGoQ3-ij9zObPKQn-YsGyB3GSECvdmb2dwSVztD-U4556DBb219pR5m-EdnLyhi6Qxv46fMhQ91~8cuNNStz5LfzTKGuExEgAgmRmgVKZ-fgkBLWQF~NuLEwAVQ7ggXlCIW0a2qmgwDxUOE3gOvw5f8CIp~DLgcNmNhetB9OFi8amow__) no-repeat center/cover",
           width: "100%",
           height: "376px",
           position: "absolute",
